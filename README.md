@@ -1,6 +1,6 @@
 # Dawn Of The Zombaes
 
-![](https://github.com/juliettepel/DawnOfTheZombaes/blob/main/dawnOfTheZombaes.png)
+![](https://github.com/juliettepel/DawnOfTheZombaes/blob/main/dawnOfTheZombaes.png) 
 
 Download the installer here: 
 
