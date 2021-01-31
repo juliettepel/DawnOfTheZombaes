@@ -10,7 +10,7 @@ Windows: https://drive.google.com/file/d/1fJmAlXAjb4HJwpJePmFo5HZVo_vI6uby/view?
 
 ## Dawn Of The Zombaes V1:
 
-The game's first version. A terrifying third person shooter, with capsule zombaes. But beware, their cute shape does not make them any less ravenous. 
+The game's first version. A terrifying third person shooter with capsule zombaes. But beware, their cute shape does not make them any less ravenous. 
 
 Windows: https://drive.google.com/file/d/1fdZlPJf2rwozUv4cY9bcB90slBiS0xfZ/view?usp=sharing
 
